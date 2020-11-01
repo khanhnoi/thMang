@@ -1,0 +1,97 @@
+.center ul li{
+	text-align: left;
+    line-height: 30px;
+    font-size: 20px;
+    padding-left: 155px;
+    padding-top: 20px;
+}
+.center table, .center form{
+    margin: auto;
+    margin-top: 30px;
+}
+.center form .content-form input{
+	    margin: 15px;
+}
+label{
+	font-size: 20px;
+}
+input[type='text']{
+	width: 200px;
+	font-size: 19px;
+}
+.center form .content-form label{
+	display: block;
+    text-align: left;
+    padding-left: 350px;
+}
+.center table tr td, .center table tr th{
+	padding: 10px;
+    width: 150px;
+    font-size: 20px;
+}
+.loi, #loi{
+	color: red;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	display: block;
+}
+.clear{
+	clear: both;
+}
+.wrapper{
+	margin:0px auto;	
+}
+.wrapper .header{
+	text-align:center;
+	border-bottom:1px solid black;
+	padding-bottom:30px;
+	background-color:#d3d3d3;
+}
+.wrapper .header table{
+	margin:0px auto;
+	width:100%;
+	border:3px double black;
+}
+.wrapper .header table tr{}
+.wrapper .header table tr td{}
+.wrapper .header table tr td img{
+	width:200px;
+	height:100px;
+}
+.wrapper .header table tr td p{
+	text-align:center;
+	font-size:30px;
+}
+.wrapper .left-bar{
+	float:left;
+	width: 200px;
+}
+
+
+.wrapper .left-bar ul li:HOVER{
+	background-color:green;
+}
+.wrapper .left-bar ul li a{
+	text-decoration:none;
+}
+.wrapper .center{
+	padding-top:50px;
+	text-align: center;
+	margin: auto;
+	height: 450px;
+	width: 900px;
+}
+.wrapper .right-bar{
+	float:right;
+	border:1px solid #000000;
+	min-height:470px;
+	width: 200px;
+}
+.wrapper .right-bar img{
+	display:block;
+	margin:5px;
+	border:1px dotted #66ec2d;
+	width: 200px;
+	height: 140px;
+}
+
